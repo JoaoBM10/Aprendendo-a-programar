@@ -5,3 +5,5 @@ print('Seu nome minúsculo é {}.'.format(nome.lower()))
 print('Seu nome tem ao todo {} letras.'.format(len(nome)-nome.count(' ')))
 separar = nome.split()
 print('Seu primeiro nome é {} e ele tem {} letras.'.format(separar[0],len(separar[0])))
+
+#.
