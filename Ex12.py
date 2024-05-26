@@ -1,4 +1,4 @@
-v = int(input('Digite o preço do produto: R$'))
+v = float(input('Digite o preço do produto: R$'))
 d = v * 0.05
 vd = v - d
 print('O valor com desconto é R${:.2f}'.format(vd))
