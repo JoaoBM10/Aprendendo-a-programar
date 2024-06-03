@@ -14,4 +14,3 @@ elif idade > 18:
 else:
     print('Ainda faltam {} para o alistamento.'.format(18 - idade))
     print('Seu alistamento será em {}.'.format(nascimento + 18))
-

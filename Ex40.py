@@ -10,4 +10,3 @@ elif media > 5:
     print('O aluno está em RECUPERAÇÃO!')
 else:
     print('O aluno está REPROVADO!')
-

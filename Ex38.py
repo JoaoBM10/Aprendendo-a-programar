@@ -7,4 +7,3 @@ elif num1 < num2:
     print('O segundo valor é maior.')
 else:
     print('Não existe valor maior, ambos são iguais.')
-    

@@ -26,4 +26,3 @@ else:
     total = valor
     print('Opção inválida! Tente novamente.')
 print('Sua compra de R${:.2f} vai custar R${:.2f} no final.'.format(valor , total))
-

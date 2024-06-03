@@ -49,4 +49,3 @@ else:
         print('COMPUTADOR GANHOU')
     else:
         print('EMPATE')
-

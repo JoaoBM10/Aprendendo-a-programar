@@ -14,4 +14,3 @@ elif imc > 18.5:
     print('Peso ideal')
 else:
     print('Abaixo do peso')
-

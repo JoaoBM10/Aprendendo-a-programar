@@ -8,4 +8,3 @@ if prestacao <= salario*0.3:
     print('Empréstimo pode ser CONCEDIDO!')
 else:
     print('Emprestimo NEGADO!')
-
