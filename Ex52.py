@@ -12,3 +12,4 @@ if cont == 2:
     print('O número escolhido é primo!')
 else:
     print('O número escolhido não é primo!')
+    

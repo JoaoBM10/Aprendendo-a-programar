@@ -22,3 +22,4 @@ for intervalo in range(1,5,1):
 print(f'A média de idade do grupo é de {media} anos.')
 print(f'O homem mais velho tem {maior} anos e se chama {nomevelho}.')
 print(f'Ao todo são {idademaior} mulheres com menos de 20 anos.')
+

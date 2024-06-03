@@ -10,3 +10,4 @@ print('='*20)
 num = int(input('Digite um número para saber sua tabuada:'))
 for multiplicador in range(0 , 11 , 1):
     print(f'{num:<2} x {multiplicador:2} = {num*multiplicador}')
+    
