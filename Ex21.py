@@ -4,3 +4,4 @@ pygame.mixer.music.load('enemy.mp3')
 pygame.mixer.music.play()
 input()
 pygame.event.wait()
+
