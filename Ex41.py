@@ -14,3 +14,4 @@ elif idade >= 9:
     print('Classificação: INFANTIL')
 else:
     print('Classificação: MIRIM')
+
