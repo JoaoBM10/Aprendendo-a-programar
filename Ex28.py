@@ -13,4 +13,3 @@ if num == num2:
     print('Parabéns! Você conseguiu me vencer!')
 else:
     print('Erroooooou! Eu pensei no número {} e não no {}'.format(num2 , num))
-
