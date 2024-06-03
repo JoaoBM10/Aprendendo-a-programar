@@ -7,3 +7,4 @@ print('É alfanumperico?',Valor.isalnum())
 print('Está em maiúscula?',Valor.isupper())
 print('Está em minúscula?',Valor.islower())
 print('Está capitalizada?',Valor.istitle())
+
