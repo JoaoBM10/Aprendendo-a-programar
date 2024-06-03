@@ -12,3 +12,4 @@ r=n**(1/2)
 print('O dobro de {} é {}.'.format(n,d))
 print('O triplo de {} é {}.'.format(n,t))
 print('A raiz quadrada de {} é {:.1f}'.format(n,r))
+

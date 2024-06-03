@@ -5,3 +5,4 @@ c=v/d
 ce=v/e
 print('Você pode comprar: US${:.2f} dólares'.format(c))
 print('Você pode comprar: EUR{:.2f} euros'.format(ce))
+
