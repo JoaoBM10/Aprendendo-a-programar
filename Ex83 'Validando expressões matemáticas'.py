@@ -13,5 +13,4 @@ for caracter in expressao:
 if len(lista) == 0:
     print('Sua expressão é válida.')
 else:
-    print(lista)
     print('Sua expressão é inválida.')
